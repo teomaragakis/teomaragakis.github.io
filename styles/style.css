@@ -4,7 +4,7 @@
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.styles v3.0.3 | MIT License | github.com/necolas/normalize.styles */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -5798,4 +5798,4 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=style.cssmap */
